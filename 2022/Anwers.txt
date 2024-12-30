@@ -1,0 +1,79 @@
+Q1. Cyber
+S -> E -> A -> W -> E -> E -> D
+
+Answer: Seaweed
+
+Q2.
+French Cat: Chat
+Polish Dog: Pies
+
+Answer: Pies
+
+
+Q3. Coding
+Blue:   PART
+Green:  EYES
+Gold:   UNCURL
+
+U   P   R
+N   A
+C   R
+U   T
+R
+L
+
+Car
+
+
+P   E   U
+A   Y   N
+R   E   C
+T   S   U
+        R
+        L
+
+Pen
+
+P   U   E
+A   N   Y
+R   C   E
+T   U   S
+    R
+    L
+
+Try
+
+C   A   R
+
+P   E   N
+
+T   R   Y
+
+Answer: Carpentry
+
+Q4: Analysis
+Answer: Two
+
+Q5. Engineering
+P
+I
+C
+K
+Y
+
+Answer: Picky
+
+Q6. Codebraking
+
+Answer: outboard.grid.rejoins
+
+Q7. Maths
+Answer: Opening
+
+Order:
+Maths, Languages, Engineering   Opening:Pies:Picky: Christmas
+Analysis, Cyber, Coding:        Director:Seaweed:Carpentry: Greet
+
+Christmas Greetings
+
+
